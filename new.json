@@ -1,0 +1,10 @@
+{
+  "infoAboutme":
+  {
+   "name": "Mikhail",
+   "surname": "Pozdeev",
+   "age" : 33,
+   "petsNumber" : 2,
+   "expectedSalary" : "$1500 a month"
+  }
+}
