@@ -1,1 +1,12 @@
+{
+  "bugReport":
+ { 
+  "id": "100"
+  "severity": "critical"
+  "priority": "high"
+  "summary": "поле ввода пароля принимает символы"
+  "environment": "MacBook air m1,Chrome 116"
+  "operSystem": "Ventura 13.5" 
+}
+}
 
